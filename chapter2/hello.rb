@@ -1,3 +1,4 @@
+
 def hello(names)
 	names.each do |name|
 		puts "HELLO, #{name.upcase}"
